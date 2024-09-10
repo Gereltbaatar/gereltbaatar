@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gereltbaatar</h1>
-<img align=“right” alt=“coding” width=“400” src=“https://images.wallpapersden.com/image/download/lo-fi-room-cool-anime_bmZuaGWUmZqaraWkpJRoam1prWdlaW0.jpg”>
+<img  alt=“coding” width=“400” src=“https://images.wallpapersden.com/image/download/lo-fi-room-cool-anime_bmZuaGWUmZqaraWkpJRoam1prWdlaW0.jpg”>
 <h3 align="center">Software developer from Mongolian</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gereltbaatar&label=Profile%20views&color=0e75b6&style=flat" alt="gereltbaatar" /> </p>
