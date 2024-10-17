@@ -28,11 +28,6 @@
 
 
 
-<div align="center">
-  <a href="https://github.com/gereltbaatar">
-  <img  src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"
-       alt="snake" /></a>
-</div>
 
 ### ⚙️ &nbsp;GitHub Analytics ⚙️
 
@@ -45,6 +40,13 @@
   <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=gereltbaatar&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
+
+<div align="center">
+  <a href="https://github.com/gereltbaatar">
+  <img  src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"
+       alt="snake" /></a>
+</div>
+
 <h3 align="left">🔥 Stats 🔥</h3>
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=gereltbaatar&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
