@@ -4,7 +4,7 @@
 <h1 align="center"> Hi , My name is Gereltbaatar </h1> 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gereltbaatar&label=Profile%20views&color=0e75b6&style=flat" alt="gereltbaatar" /> </p>
-<div align="center"><a> <img height="auto" width="auto" src="https://wallpapercave.com/wp/wp8170492.png" /></a></div>
+<div align="center"><a> <img height="auto" width="auto" src="[https://wallpapercave.com/wp/wp8170492.png](https://img.freepik.com/free-photo/beautiful-office-space-cartoon-style_23-2151043353.jpg?t=st=1729142012~exp=1729145612~hmac=f35f415bba2c17d5c995c6bda9e74f6a9f4f1c633def3277606762a74a58ea4f&w=2000)" /></a></div>
 
 <h4 align="center">Full Stack Developer</h4>
 </div>
