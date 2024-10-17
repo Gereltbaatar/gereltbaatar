@@ -3,7 +3,7 @@
 <div align="center">
 <h1 align="center"> Hi , My name is Gereltbaatar </h1> 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=unenbat623&label=Profile%20views&color=0e75b6&style=flat" alt="unenbat623" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=unenbat623&label=Profile%20views&color=0e75b6&style=flat" alt="gereltbaatar" /> </p>
 <div align="center"><a> <img height="auto" width="auto" src="https://wallpapercave.com/wp/wp8170492.png" /></a></div>
 
 <h4 align="center">Full Stack Developer</h4>
