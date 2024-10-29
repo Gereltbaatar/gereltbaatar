@@ -3,7 +3,7 @@
 <div align="center">
 <h1 align="center"> Hi <span>.</span> My name is Гэрэлтбаатар </h1> 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gereltbaatar&label=Profile%20views&color=0e75b6&style=flat" alt="gereltbaatar" /> </p>
+<p align="left"> <img src="https://image8.uhdpaper.com/wallpaper/black-hole-space-planet-astronaut-uhdpaper.com-4K-8.2500.jpg" alt="gereltbaatar" /> </p>
 <div align="center"><a> <img height="auto" width="auto" src="https://backiee.com/static/wallpapers/1000x563/395499.jpg" /></a></div>
 
 <h4 align="center">Full Stack Developer</h4>
