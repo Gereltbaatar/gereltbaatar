@@ -21,8 +21,9 @@
 ![Material-ui](https://img.shields.io/badge/Material--UI-0081CB?style=flat&logo=material-ui&logoColor=white)&nbsp;
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)&nbsp;
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)\
+[![Next.js](https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white)](#)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
-
+[![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?logo=express&logoColor=%2361DAFB)](#)&nbsp;
 
 ![Daisy-ui](https://img.shields.io/badge/Daisy--UI-8A2BE2?style=flat&logo=daisy-ui&logoColor=white)&nbsp;
 
